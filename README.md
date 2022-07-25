@@ -1,1 +1,2 @@
-source data: https://data.detroitmi.gov/datasets/detroitmi::rms-crime-incidents/about
+'crimes' source data: https://data.detroitmi.gov/datasets/detroitmi::rms-crime-incidents/about
+'past 30 days 911 calls' source data: https://data.detroitmi.gov/datasets/detroitmi::911-calls-for-service-last-30-days/about
